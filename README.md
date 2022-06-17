@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabhishekkatara%2Ffree-tunes.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabhishekkatara%2Ffree-tunes?ref=badge_shield)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -41,3 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # TO Run Tailwind CSS
 npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabhishekkatara%2Ffree-tunes.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabhishekkatara%2Ffree-tunes?ref=badge_large)
